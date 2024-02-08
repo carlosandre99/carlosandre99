@@ -19,7 +19,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlosandre99&bg_color=0d1117&color=5290DF&line=1D6ACD&point=0C4998&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="center" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="700" height="300" />
+<img align="center" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="800" height="300" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1D6ACD&section=footer&fontColor=000000"/>
